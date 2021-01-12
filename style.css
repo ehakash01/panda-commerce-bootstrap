@@ -1,0 +1,20 @@
+.spacer{
+    margin: 9%;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 25px;
+}
+.carousel-inner{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.category img{
+    width: 6em;
+}

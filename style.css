@@ -11,14 +11,14 @@
     border-radius: 6px;
     padding: 10px 25px;
 }
-.carousel-inner{
+.carousel-style{
     background-color: #FEEAE9;
     border-radius: 10px;
 }
 .category img{
     width: 6em;
 }
-.card{
+.panda-card{
     border: none;
     border-radius: 3%;
 }

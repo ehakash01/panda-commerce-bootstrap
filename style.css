@@ -18,3 +18,12 @@
 .category img{
     width: 6em;
 }
+.card{
+    border: none;
+    border-radius: 3%;
+}
+.contact-us-section{
+    height: 18em;
+    background-color: #FEEAE9;
+    border-radius: .5em;
+}
